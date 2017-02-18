@@ -1,0 +1,2 @@
+# mypool
+Pool automation
