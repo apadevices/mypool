@@ -1,7 +1,9 @@
 # mypool controler
 Pool automation and metering.
 
-Still in development ... 
+Still in development: It means. I am in middle of testing phase. You can see part of my scatch for PH and ORP meassuring 
+witch both of them includes 2points calibration process. Later I will add whole scatch for pool automatization (inc. chemistry
+dosing; PH- and PH+ dditing to the water) and solar heating, lights automation ... and mobile app (nased on Blynk) for full control on it.
 
 PH/ORP measuring based on the same cheap analog module:
 
