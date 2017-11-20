@@ -13,4 +13,4 @@ event. https://www.ebay.com/sch/i.html?_from=R40&_sacat=0&_nkw=ads1015&_sop=15
 
 For ORP you have to cut off first trimmer (clouse to BNC) and replace it with 30k Ohm resistor. Thats all.
 
-Note: This module needs very stable voltage on his input. In case of you will use both module PH/ORP in same water, I am recomande to add to the front of your module galvanic separation, like NME0505SC, in case you desided to use ADS1015 for both modules (pH/Rx) is higly recomanfed to use opto-divider for both ADS1015, something like ADUM1251. 
+Note: This module needs very stable voltage on his input. In case of you will use both module PH/ORP in same water, I am recomande to add to the front of your module galvanic separation, like NME0505SC, in case you desided to use ADS1015 for both modules (pH/Rx) is higly recomanfed to use opto-divider for both ADS1015, something like ADUM1251. Benefit - ground-loops free.
